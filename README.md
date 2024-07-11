@@ -5,9 +5,9 @@
 
 This dashboard helps Australian better understand the housing market and what had happened in the last decade. It allows them to compare the housing market in the different states and territories in Australia.
 
-In Australian media, regularly we are told of hear the housing crisis in Australia. As a 24 year old Australian, I want to acheive the Australian dream of house ownership. Therefore, I want to find out if the claims about house affordability are true. 
+In Australian media, regularly we are told of the housing crisis in Australia. As a 24 year old Australian, I want to acheive the Australian dream of house ownership. Therefore, I want to find out if the claims about house affordability are true. 
 
-In this project I set out to answer the following question "Is Australia going through housing crisis?". In order to answer that question, we have to answer this question, what is the relationship between average person income and median house price in Australia? As a result, the following metric will be used. using 100% of income how long will it take to buy a median house with an average income? 
+In this project I set out to answer the following question "Are Australian houses more or less affordable now compared to a decade ago?". Housing affordability has two components personal income and house prices. Therefore in order to answer that question, we have to answer this question first, what is the relationship between average person income and median house price in Australia? As a result, the following metric will be used. using 100% of income how long will it take to buy a median house with an average income? 
 
 
 
@@ -25,14 +25,17 @@ In this project I set out to answer the following question "Is Australia going t
 
 
 ### Dataset
+
 The following datasets were used from abs,
 1. Average weekly earnings per person (seasonally adjusted) in Australia and all the states and territories which can be found here https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/latest-release
 2. Mean price of residential dwelling in the data named as "Table 1. Total value of dwellings, all series" which can be found here https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/total-value-dwellings/latest-release
 
 ### Methodology
+
 All the required data was compiled into one excel sheet and the number of years to buy a median house with 100% of average income was calculated using the following equation (median house price)/(52*average weekly income).
 
 ### Snapshot of the Dashboard
+
 ![image](https://github.com/Theeprotagonist/Projects/assets/112685391/ed3f7a82-cc54-4ba9-a11a-756a63aa9bf2)
 
 ![image](https://github.com/Theeprotagonist/Projects/assets/112685391/34738e19-8271-4880-a009-698f5558668c)

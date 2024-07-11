@@ -5,7 +5,7 @@
 
 This dashboard helps Australian better understand the housing market and what had happened in the last decade. It allows them to compare the housing market in the different states and territories in Australia.
 
-In Australian media, we regularly we are told of hear the housing crisis in Australia. As a 24 year old Australian, I want to acheive the Australian dream of house ownership. Therefore, I want to find out if the claims about house affordability are true. 
+In Australian media, regularly we are told of hear the housing crisis in Australia. As a 24 year old Australian, I want to acheive the Australian dream of house ownership. Therefore, I want to find out if the claims about house affordability are true. 
 
 In this project I set out to answer the following question "Is Australia going through housing crisis?". In order to answer that question, we have to answer this question, what is the relationship between average person income and median house price in Australia? As a result, the following metric will be used. using 100% of income how long will it take to buy a median house with an average income? 
 

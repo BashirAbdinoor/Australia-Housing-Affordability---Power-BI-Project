@@ -44,7 +44,7 @@ All the required data was compiled into one excel sheet and the number of years 
 
 ![image](https://github.com/Theeprotagonist/Projects/assets/112685391/a6b8f9a5-e04a-49fb-9360-c3d0dd99c447)
 
-# Insights
+### Insights
 Except Western Australia and Northern Territories in the last decade housing affordability has fallen. It will take 3 to 5 more years to buy a median house with an average income citizen compared to a decade ago.
 
 # Author

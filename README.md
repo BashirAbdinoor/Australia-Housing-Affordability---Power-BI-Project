@@ -1,5 +1,5 @@
 
-# Australia House prices - Power BI project
+# Australia Housing affordability - Power BI project
 
 ## Problem Statement
 

@@ -13,20 +13,20 @@ In this project I set out to answer the following question "Are Australian house
 
 ### Steps followed 
 
-- Step 1 : Download the following data from abs, the average earnings and the median houses in all the different states and territories.
+- Step 1 : Download the following data from abs, the average earnings and the median houses in all of the different states and territories.
 - Step 2 : Combine the data into one excel file and calculate how long it will take to buy a median house with an average salary.
 - Step 3 : Load data into Power BI Desktop as an Excel file.
-- Step 4 : Create a line chart for every state and territory stacked over one another.
+- Step 4 : Create a line chart for every state and territory stacked over one another, on the x-axis is time and the y-axis is the number of years it will take to buy the house.
 - Step 5 : Create a filled map for every state and territory stacked over one another.
 - Step 6 : Create a button for every state and territory which are not stacked over one another and each of them has the name of the state or territory as a text.
 - Step 7 : Create the title of the dashboard as a button.
 - Step 8 : create a bookmark for every state or territory consisting only of the buttons and that state's or territory's filled map and line chart.
-- Step 9 : Link between the button of a state or territory with the corresponding bookmark.
+- Step 9 : Link the button of every state or territory with the corresponding bookmark.
 
 
 ### Dataset
 
-The following datasets were used from abs,
+The following datasets were used from the Australian Bureau of Statistics (abs),
 1. Average weekly earnings per person (seasonally adjusted) in Australia and all the states and territories which can be found here https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/latest-release
 2. Mean price of residential dwelling in the data named as "Table 1. Total value of dwellings, all series" which can be found here https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/total-value-dwellings/latest-release
 
